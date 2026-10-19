@@ -3,13 +3,13 @@ entries:
   odoo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-10-19T15:10:17.86714+02:00"
+    created: "2026-10-19T15:50:07.5420203+02:00"
     description: Kubernetes AWS Odoo Helm chart
-    digest: 266688e0928b9a56801934fe41091c1bb98bf0641be094843f8de816d0230da7
+    digest: 69fcca87fcc09181701644a6f3a9f0bede3e28a678f7589fdc204b410d4e7603
     icon: https://ProcessControlProd.github.io/k8s-odoo-aws/odoo.png
     name: odoo
     type: application
     urls:
     - https://raw.githubusercontent.com/DavidRamiaOrg/oem-hetzner-charts/gh-pages/odoo-1.1.54.tgz
     version: 1.1.54
-generated: "2026-10-19T15:10:17.8590892+02:00"
+generated: "2026-10-19T15:50:07.5351784+02:00"
